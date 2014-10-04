@@ -1,5 +1,6 @@
 showme
 ======
-*bold*
-**italic**
-***underline***
+*italic*
+**bold**
+***italicbold***
+_underline_
