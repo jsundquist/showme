@@ -1,2 +1,5 @@
 showme
 ======
+*bold*
+**italic**
+***underline***
